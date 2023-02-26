@@ -1,0 +1,6 @@
+### EXERCÍCIOS TRIÂNGULOS ###
+Exercícios usando diferentes tipos de métodos para calcular a área de diferentes triângulos.
+
+1. Usando o método main com variáveis
+2. Usando métodos 
+3. Usando Classe e Objetos
