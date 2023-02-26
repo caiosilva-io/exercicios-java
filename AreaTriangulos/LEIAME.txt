@@ -1,0 +1,6 @@
+### CALCULAR ÁREA DE TRIÂNGULOS ###
+
+Usando:
+1. o método padrão main e variáveis
+2. usando métodos adicionais
+3. usando Classe e Objeto
